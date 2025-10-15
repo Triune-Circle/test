@@ -25,7 +25,7 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="pt"
      inkscape:zoom="2.7047859"
-     inkscape:cx="92.2439"
+     inkscape:cx="93.72276"
      inkscape:cy="20.519184"
      inkscape:window-width="1920"
      inkscape:window-height="991"
@@ -1205,14 +1205,14 @@
          mode="normal" /></filter><filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter6-97"
+       id="filter6"
        x="-0.010546498"
        y="-0.037028181"
        width="1.021093"
        height="1.0740564"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.27770818"
-         id="feGaussianBlur6-8" /></filter></defs><g
+         id="feGaussianBlur6" /></filter></defs><g
      id="g292"
      transform="matrix(0.06633704,0,0,0.04577492,-99.079432,-18.114735)"
      inkscape:label="g292"
@@ -1225,7 +1225,7 @@
        x="1514.8484"
        y="426.58777"
        style="display:inline" /><path
-       style="font-variation-settings:normal;display:inline;opacity:0.403463;vector-effect:none;fill:#00225e;fill-opacity:1;stroke:none;stroke-width:1.09418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;filter:url(#filter6-97);stop-color:#000000"
+       style="display:inline;font-variation-settings:normal;vector-effect:none;fill:#062254;fill-opacity:0.686501;stroke:none;stroke-width:1.09418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;filter:url(#filter6);stop-color:#000000"
        d="M 11.303374,20.271957 C 11.218588,20.136429 10.1288,18.252962 8.8816238,16.086476 7.6344478,13.91999 6.5259923,11.999695 6.4183897,11.819155 L 6.2227486,11.490899 8.8162899,7.0047408 11.409831,2.5185826 h 26.46691 26.46691 l 2.434246,4.2126119 c 1.338834,2.3169366 2.506073,4.3357085 2.593864,4.4861585 0.154064,0.264035 0.06943,0.429539 -2.434058,4.759705 l -2.593673,4.486158 -26.443249,0.02758 -26.44325,0.02758 z"
        id="path3"
        transform="matrix(15.118111,0,0,15.118111,1421.6843,388.2823)" /><path
